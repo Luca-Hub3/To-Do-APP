@@ -154,12 +154,6 @@ Questo progetto è privato e non è disponibile per uso pubblico.
 
 - GitHub: [@Luca-Hub3](https://github.com/Luca-Hub3)
 
-## 🙏 Ringraziamenti
-
-- [shadcn](https://twitter.com/shadcn) per i fantastici componenti UI
-- [Vercel](https://vercel.com/) per Next.js
-- Tutti i maintainer delle librerie open source utilizzate
-
 ---
 
 ⭐ Se ti piace questo progetto, lascia una stella su GitHub!
